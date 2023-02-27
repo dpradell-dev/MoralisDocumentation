@@ -3,7 +3,7 @@ title: "Self-hosting Moralis Server"
 description: "This guide will help you migrate to a self-hosted Moralis Server."
 ---
 
-![](/.gitbook/assets/53a7368-self-hosted-moralis-server-webpage-banner.webp)
+![](<../../.gitbook/assets/53a7368-self-hosted-moralis-server-webpage-banner.webp>)
 
 :::info You're in the right place
 If you have a **Moralis-hosted server**, this guide will help you **migrate** to a **self-hosting solution**.
